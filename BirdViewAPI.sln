@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdViewAPI", "BirdViewAPI.csproj", "{4FA8070E-893D-4D43-9CDA-6A4D33C6DCDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA8070E-893D-4D43-9CDA-6A4D33C6DCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA8070E-893D-4D43-9CDA-6A4D33C6DCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA8070E-893D-4D43-9CDA-6A4D33C6DCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA8070E-893D-4D43-9CDA-6A4D33C6DCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D1D0E7-CC19-4D9C-AE96-131ACB8A1EB5}
+	EndGlobalSection
+EndGlobal
